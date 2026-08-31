@@ -1,0 +1,33 @@
+{
+  "weekLabel": "Semana del 31 de agosto al 6 de septiembre de 2026",
+  "rate30yr": "6.66%",
+  "rate15yr": "5.98%",
+  "rateFHA": "6.38%",
+  "rateJumbo": "6.71%",
+  "rateTrend": "Estables — 30yr sin cambio vs. semana anterior (Freddie Mac PMMS, 27 ago)",
+  "kpis": [
+    { "label": "Precio mediano SWFL", "value": "$370K", "note": "Lee County unifamiliar, jul 2026" },
+    { "label": "Días en mercado", "value": "73 días", "note": "Lee County promedio a contrato" },
+    { "label": "Inventario disponible", "value": "5.5 meses", "note": "Bajando desde 7.4 — hacia equilibrio" },
+    { "label": "Ventas cerradas", "value": "+13% YoY", "note": "Lee County unifamiliar — Florida lleva 11 meses al alza" }
+  ],
+  "talkingPoints": [
+    "Florida lleva 11 meses consecutivos de ventas al alza — el mercado se está reactivando, no estancando.",
+    "En Lee County, las ventas de casas unifamiliares subieron 13% interanual en julio — hay compradores activos.",
+    "El inventario bajó de 7.4 a 5.5 meses — cada semana que espera un cliente, hay menos opciones disponibles.",
+    "Con FHA al 6.38% y solo 3.5% de enganche, muchos de tus clientes califican hoy. Pre-aprobación en 24-48 hrs."
+  ],
+  "highlight": "Lee County acumula 11 meses consecutivos de ventas al alza y el inventario bajó de 7.4 a 5.5 meses — señal de que el mercado se está reequilibrando. En Cape Coral el precio mediano es $370K (-5.1% YoY), lo que significa que hay más espacio para negociar que el año pasado. Tus clientes que esperaron tienen una ventana ahora.",
+  "areas": [
+    { "nombre": "Cape Coral",    "precioMediano": "$370,000", "diasMercado": "82 días", "inventario": "5.5 meses" },
+    { "nombre": "Fort Myers",    "precioMediano": "$350,000", "diasMercado": "96 días", "inventario": "5.5 meses" },
+    { "nombre": "Lehigh Acres",  "precioMediano": "$310,000", "diasMercado": "74 días", "inventario": "5.5 meses" },
+    { "nombre": "Naples",        "precioMediano": "$590,000", "diasMercado": "108 días","inventario": "8+ meses" },
+    { "nombre": "Estero / Bonita","precioMediano":"$485,000","diasMercado": "90 días", "inventario": "6+ meses" }
+  ],
+  "_meta": {
+    "updatedAt": "2026-08-31T11:45:00Z",
+    "sources": ["Freddie Mac PMMS", "Bankrate", "Redfin", "Florida Realtors", "Naples Golf Guy"],
+    "generatedBy": "cloud-routine-trig_01JM3KjCtEFCWu1WwDV2EMWX"
+  }
+}
