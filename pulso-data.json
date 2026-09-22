@@ -1,33 +1,33 @@
 {
-  "weekLabel": "Semana del 31 de agosto al 6 de septiembre de 2026",
-  "rate30yr": "6.66%",
-  "rate15yr": "5.98%",
-  "rateFHA": "6.38%",
-  "rateJumbo": "6.71%",
-  "rateTrend": "Estables — 30yr sin cambio vs. semana anterior (Freddie Mac PMMS, 27 ago)",
+  "weekLabel": "Semana del 21 al 27 de septiembre de 2026",
+  "rate30yr": "6.95%",
+  "rate15yr": "6.26%",
+  "rateFHA": "6.49%",
+  "rateJumbo": "7.20%",
+  "rateTrend": "Al alza — 30yr subió +0.19 pp vs. semana anterior (Freddie Mac PMMS, 17 sep), su nivel más alto en más de un año. La excepción es VA, que apenas subió 0.008 pp a 6.375%.",
   "kpis": [
-    { "label": "Precio mediano SWFL", "value": "$370K", "note": "Lee County unifamiliar, jul 2026" },
-    { "label": "Días en mercado", "value": "73 días", "note": "Lee County promedio a contrato" },
-    { "label": "Inventario disponible", "value": "5.5 meses", "note": "Bajando desde 7.4 — hacia equilibrio" },
-    { "label": "Ventas cerradas", "value": "+13% YoY", "note": "Lee County unifamiliar — Florida lleva 11 meses al alza" }
+    { "label": "Precio mediano SWFL", "value": "$380K", "note": "Cape Coral, prom. 3 meses Redfin, ago 2026 (+5.8% YoY)" },
+    { "label": "Días en mercado", "value": "60 días", "note": "Lee County promedio de condado — cambio de metodología vs. semana pasada (antes: cierres <$1M)" },
+    { "label": "Inventario disponible", "value": "5.4 meses", "note": "Lee County unifamiliar (8.2 meses en condominios)" },
+    { "label": "Ventas de condominios", "value": "-12% YoY", "note": "Condado Lee — vivienda unifamiliar más resiliente en precio" }
   ],
   "talkingPoints": [
-    "Florida lleva 11 meses consecutivos de ventas al alza — el mercado se está reactivando, no estancando.",
-    "En Lee County, las ventas de casas unifamiliares subieron 13% interanual en julio — hay compradores activos.",
-    "El inventario bajó de 7.4 a 5.5 meses — cada semana que espera un cliente, hay menos opciones disponibles.",
-    "Con FHA al 6.38% y solo 3.5% de enganche, muchos de tus clientes califican hoy. Pre-aprobación en 24-48 hrs."
+    "El 30 años llegó a 6.95% el 17 de septiembre, su nivel más alto en más de un año, pero VA apenas subió (a 6.375%) por segunda semana seguida: el programa más estable para blindar compradores veteranos.",
+    "Jumbo (7.20%) y Convencional (6.97%) volvieron a separarse esta semana (brecha de 0.23 pp) tras casi igualarse la semana pasada — vigile este spread para clientes de alto valor en Naples y Estero.",
+    "El inventario de Lee County subió a 5.4 meses en vivienda unifamiliar (más opciones para mostrar sin presión de múltiples ofertas), mientras el condado se mueve más rápido en general (60 días promedio).",
+    "Cape Coral sigue subiendo de precio (+5.8% interanual, mediana $380,000) pese a tasas más altas — buen argumento para compradores que esperan 'a que bajen los precios'."
   ],
-  "highlight": "Lee County acumula 11 meses consecutivos de ventas al alza y el inventario bajó de 7.4 a 5.5 meses — señal de que el mercado se está reequilibrando. En Cape Coral el precio mediano es $370K (-5.1% YoY), lo que significa que hay más espacio para negociar que el año pasado. Tus clientes que esperaron tienen una ventana ahora.",
+  "highlight": "El 30 años tocó 6.95% el 17 de septiembre — su nivel más alto en más de un año — tras subir +0.19 pp en una semana. Pero hay una excepción clave: la tasa VA casi no se movió (+0.008 pp, a 6.375%), la más estable de las cuatro por segunda semana consecutiva. Es el mejor momento del mes para reconectar con compradores veteranos antes de que su tasa se mueva junto al resto del mercado.",
   "areas": [
-    { "nombre": "Cape Coral",    "precioMediano": "$370,000", "diasMercado": "82 días", "inventario": "5.5 meses" },
-    { "nombre": "Fort Myers",    "precioMediano": "$350,000", "diasMercado": "96 días", "inventario": "5.5 meses" },
-    { "nombre": "Lehigh Acres",  "precioMediano": "$310,000", "diasMercado": "74 días", "inventario": "5.5 meses" },
-    { "nombre": "Naples",        "precioMediano": "$590,000", "diasMercado": "108 días","inventario": "8+ meses" },
-    { "nombre": "Estero / Bonita","precioMediano":"$485,000","diasMercado": "90 días", "inventario": "6+ meses" }
+    { "nombre": "Cape Coral",     "precioMediano": "$380,000", "diasMercado": "66 días", "inventario": "5.4 meses (Condado Lee)" },
+    { "nombre": "Fort Myers",     "precioMediano": "$339,000", "diasMercado": "96 días", "inventario": "5.4 meses (Condado Lee)" },
+    { "nombre": "Lehigh Acres",   "precioMediano": "$305,000", "diasMercado": "74 días", "inventario": "5.4 meses (Condado Lee)" },
+    { "nombre": "Naples",         "precioMediano": "$615,000", "diasMercado": "70 días (NABOR, feb 2026)", "inventario": "6.2 meses (Condado Collier, jul 2026)" },
+    { "nombre": "Estero / Bonita","precioMediano": "Estero $485,000 / Bonita $575,000", "diasMercado": "N/D", "inventario": "N/D" }
   ],
   "_meta": {
-    "updatedAt": "2026-08-31T11:45:00Z",
-    "sources": ["Freddie Mac PMMS", "Bankrate", "Redfin", "Florida Realtors", "Naples Golf Guy"],
+    "updatedAt": "2026-09-21T11:24:54Z",
+    "sources": ["Freddie Mac PMMS", "Bankrate", "Veterans United", "The Mortgage Reports", "Redfin", "Zillow", "Movoto", "Florida Realtors/NABOR", "SW Florida Outdoors", "Florida-Demographics"],
     "generatedBy": "cloud-routine-trig_01JM3KjCtEFCWu1WwDV2EMWX"
   }
 }
