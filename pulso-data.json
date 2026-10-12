@@ -1,33 +1,33 @@
 {
-  "weekLabel": "Semana del 5 al 11 de octubre de 2026",
-  "rate30yr": "7.28%",
-  "rate15yr": "6.68%",
-  "rateFHA": "7.21%",
-  "rateJumbo": "7.54%",
-  "rateTrend": "Subieron a su nivel más alto desde noviembre de 2023 — 30yr saltó +0.25 pp vs. semana anterior a 7.28% (Freddie Mac PMMS, lectura del 1 de octubre), el mayor salto semanal en meses. FHA (7.21%) y VA (7.24%) siguen siendo las opciones más accesibles frente a Jumbo (7.54%).",
+  "weekLabel": "Semana del 12 al 18 de octubre de 2026",
+  "rate30yr": "7.34%",
+  "rate15yr": "N/D",
+  "rateFHA": "7.12%",
+  "rateJumbo": "N/D",
+  "rateTrend": "El 30 años subió otra vez esta semana a 7.34% (Zillow, lectura diaria del 9 de oct), desde 7.28% la semana pasada (Freddie Mac PMMS, 1 de oct) — se mantiene cerca de su nivel más alto en casi dos años. FHA (7.12%) y VA (7.14%) siguen siendo las opciones más accesibles (Mortgage News Daily, 2 de oct); Jumbo no tuvo una lectura nueva confiable esta semana (última confirmada 7.54%, Bankrate, 5 de oct). El 15 años tampoco tuvo una lectura oficial confirmable de Freddie Mac esta semana — se omite para no reportar un dato dudoso.",
   "kpis": [
-    { "label": "Precio mediano Cape Coral", "value": "$370,000", "note": "Redfin, dato más reciente 2026 (-5.1% interanual)" },
-    { "label": "Días en mercado", "value": "60 días", "note": "Lee County, MLS vía movewithmomentum.com, actualizado 7 sep 2026 — cambia de fuente vs. semana pasada" },
-    { "label": "Inventario disponible", "value": "5.4 meses", "note": "Lee County, unifamiliar — subiendo desde 4.9, mercado equilibrándose" },
+    { "label": "Precio mediano Cape Coral", "value": "$366,231", "note": "Redfin, dato más reciente 2026 (-3.6% interanual) — baja ligeramente vs. $370,000 la semana pasada" },
+    { "label": "Días en mercado", "value": "64 días", "note": "Lee County, Momentum Realty, actualizado 6 oct 2026 — sube desde 60 la semana pasada, posible cambio de fuente" },
+    { "label": "Inventario disponible", "value": "5.0 meses", "note": "Lee County, unifamiliar — baja desde 5.4 meses la semana pasada, mercado algo más ajustado" },
     { "label": "Ventas cerradas", "value": "N/D", "note": "No se encontró esta semana una cifra pública y verificable de ventas cerradas con fuente confiable — se omite para no inventar el dato" }
   ],
   "talkingPoints": [
-    "Las tasas subieron a 7.28% esta semana (Freddie Mac PMMS) — el nivel más alto desde noviembre de 2023 — pero los precios en Cape Coral (-5.1%) y Fort Myers (-6.2%) siguen bajando interanual, así que el poder de negociación sigue del lado del comprador.",
-    "Con las tasas subiendo, un buydown 2-1 pagado por el vendedor es un argumento más fuerte que un recorte de precio: suaviza el pago del comprador el primer año y le cuesta menos al vendedor.",
-    "Collier County (Naples) tiene un inventario activo -20.7% interanual (agosto 2026) — mercado más apretado que Lee County, que se mantiene en 5.4 meses de oferta, más equilibrado.",
-    "Cape Coral es 26.4% hispano/latino (Census/Neilsberg, 2025), mayoría de origen cubano — base de compradores bilingües en crecimiento, ventaja real para realtors que trabajan con un lender bilingüe como Felix."
+    "Las tasas subieron otra vez esta semana, a cerca de 7.34% — el nivel más alto en casi dos años — pero el inventario también sigue creciendo: en Naples ya hay 8.6 meses de oferta, así que usted tiene margen real para negociar precio y concesiones de cierre.",
+    "Si encontramos la casa correcta esta semana, podemos asegurar su pre-aprobación con Felix en 24 a 48 horas para congelar su presupuesto antes de que la tasa vuelva a moverse.",
+    "Y si usted es veterano, la tasa VA de 7.14% con cero enganche puede ser la mejor opción de todo el mercado en este momento.",
+    "La confianza de los compradores hispanos en Florida para comprar vivienda cayó a 38% en el 2º trimestre de 2026 (desde 46% a fines de 2025), a pesar de que sus finanzas personales han mejorado — la duda hoy es sobre el mercado, no sobre la capacidad de pago (Florida Atlantic University, vía Florida Realtors, jul 2026). Buen momento para reforzar educación bilingüe con clientes hispanos."
   ],
-  "highlight": "El 30 años (Freddie Mac PMMS) saltó a 7.28% el 1 de octubre, subiendo 0.25 puntos en una sola semana desde 7.03% — el nivel más alto desde el 22 de noviembre de 2023. Al mismo tiempo, los precios medianos siguen corrigiendo en toda la región: Cape Coral -5.1%, Fort Myers -6.2% y Lehigh Acres -6.1% interanual. Es una combinación inusual — tasas más altas, precios más bajos — que exige conversaciones de pre-aprobación más urgentes que nunca.",
+  "highlight": "La tasa convencional a 30 años siguió subiendo esta semana, a 7.34% (Zillow, lectura diaria del 9 de oct) desde 7.28% la semana pasada — manteniendo el nivel más alto en casi dos años. Al mismo tiempo, el inventario activo en Collier County (Naples) ya equivale a 8.6 meses de oferta, muy por encima del equilibrio de 5–6 meses, mientras Lee County se mantiene más ajustado con unos 5.0 meses. Es un mercado claramente de comprador en Naples y más parejo en Lee County — dos velocidades distintas para negociar, y una razón más para pre-aprobar a su cliente antes de que la tasa vuelva a moverse.",
   "areas": [
-    { "nombre": "Cape Coral",     "precioMediano": "$370,000", "diasMercado": "79 días (loqol.ai, referencia direccional)", "inventario": "5.4 meses (Lee Co.)" },
-    { "nombre": "Fort Myers",     "precioMediano": "$348,000", "diasMercado": "113 días", "inventario": "5.4 meses (Lee Co.)" },
-    { "nombre": "Lehigh Acres",   "precioMediano": "$310,000", "diasMercado": "74 días", "inventario": "5.4 meses (Lee Co.)" },
-    { "nombre": "Naples",         "precioMediano": "$490,500", "diasMercado": "100 días", "inventario": "4,164 activos (-20.7% YoY, Collier Co.)" },
-    { "nombre": "Estero / Bonita","precioMediano": "Estero $485,000 / Bonita $505,000", "diasMercado": "N/D (sin cifra combinada confiable esta semana)", "inventario": "5.4 meses (Lee Co.)" }
+    { "nombre": "Cape Coral",      "precioMediano": "$366,231", "diasMercado": "64 días (cifra de condado, Lee Co.)", "inventario": "5.0 meses (Lee Co.)" },
+    { "nombre": "Fort Myers",      "precioMediano": "$368,999", "diasMercado": "55 días", "inventario": "5.0 meses (Lee Co.)" },
+    { "nombre": "Lehigh Acres",    "precioMediano": "$309,000", "diasMercado": "74 días (sin lectura nueva esta semana)", "inventario": "5.0 meses (Lee Co.)" },
+    { "nombre": "Naples",          "precioMediano": "$600,000", "diasMercado": "73 días", "inventario": "8.6 meses de oferta (Collier Co.)" },
+    { "nombre": "Estero / Bonita", "precioMediano": "Estero $495,000 / Bonita $535,000", "diasMercado": "N/D (sin cifra pública verificable esta semana)", "inventario": "5.0 meses (Lee Co.)" }
   ],
   "_meta": {
-    "updatedAt": "2026-10-05T11:40:00Z",
-    "sources": ["Freddie Mac PMMS", "Bankrate", "Norada Real Estate", "Redfin", "MLS vía movewithmomentum.com", "Florida Realtors/SunStats", "Zillow", "loqol.ai", "U.S. Census Bureau / Neilsberg"],
+    "updatedAt": "2026-10-12T13:05:31Z",
+    "sources": ["Zillow (lectura diaria de tasas)", "Freddie Mac PMMS", "Mortgage News Daily", "Bankrate", "Redfin", "Royal Palm Coast Realtor Association", "Momentum Realty", "MLS vía movewithmomentum.com", "Resideline", "PropertyShark", "Florida Atlantic University / Florida Realtors"],
     "generatedBy": "cloud-routine-trig_01JM3KjCtEFCWu1WwDV2EMWX"
   }
 }
